@@ -1,0 +1,71 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# React build artifacts
+frontend/build/
+frontend/.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ai_service/finalenv/
+ai_service/myenv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Env and secrets
+*.env
+*/.env
+ai_service/.env
+backend/.env
+frontend/.env
+*.key
+*.pem
+
+# # Local data / vector stores / databases
+# ai_service/chroma_db/
+# ai_service/chroma-persist/
+# *.sqlite3
+# *.db
+
+# Logs
+logs/
+*.log
+
+# Archives and binaries
+*.7z
+*.zip
+*.tar
+*.gz
+*.bin
+
+# Build artifacts
+dist/
+build/
+coverage/
+.tmp/
+.temp/
+
+# Misc
+node_modules/**/*
+!.gitignore
+# Keep lockfiles
+!frontend/package-lock.json
+!backend/package-lock.json

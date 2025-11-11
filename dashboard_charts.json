@@ -1,0 +1,4436 @@
+[
+  {
+    "id": "58cca74e-de74-468e-872e-502ae0d773c0",
+    "dashboard_id": "93d9137f-a15b-4abe-9e49-f38c1bd6170d",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 14
+        },
+        {
+          "age": 22,
+          "patient_count": 8
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 15
+        },
+        {
+          "age": 38,
+          "patient_count": 7
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-28T10:42:43.448Z"
+  },
+  {
+    "id": "6d87a676-1d23-464d-ae9d-0457b072d0d2",
+    "dashboard_id": "75779d66-23a6-4774-8545-060d19eb2232",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 14
+        },
+        {
+          "age": 22,
+          "patient_count": 8
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 15
+        },
+        {
+          "age": 38,
+          "patient_count": 7
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-28T10:48:34.440Z"
+  },
+  {
+    "id": "2fd7e5db-e2d0-41b5-ab83-5259cd17e904",
+    "dashboard_id": "6e0c2315-7cfa-4f57-96d0-2afac48f9019",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 14
+        },
+        {
+          "age": 22,
+          "patient_count": 8
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 15
+        },
+        {
+          "age": 38,
+          "patient_count": 7
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-28T10:59:21.301Z"
+  },
+  {
+    "id": "4b766b61-a255-4aaf-9ecc-ed6bea7f9516",
+    "dashboard_id": "785b7da1-6700-46b1-998b-8ba6d63174fe",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 14
+        },
+        {
+          "age": 22,
+          "patient_count": 8
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 15
+        },
+        {
+          "age": 38,
+          "patient_count": 7
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-28T13:19:42.419Z"
+  },
+  {
+    "id": "265a6adb-a88f-4250-b6ac-40b0da6f1ba7",
+    "dashboard_id": "669ec1ad-e542-4f07-b17c-a137674ff348",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T04:49:46.508Z"
+  },
+  {
+    "id": "edc23676-b053-4851-ad15-8998cfa49e93",
+    "dashboard_id": "2830c62c-34cc-483c-b050-2f167f33995d",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T08:48:14.023Z"
+  },
+  {
+    "id": "b41a5aca-cb41-4ada-9822-776cda7378d3",
+    "dashboard_id": "a20566d6-53fe-49e7-837e-e59079329812",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T08:50:05.945Z"
+  },
+  {
+    "id": "09773e3a-b96e-429b-980f-347a7d442b45",
+    "dashboard_id": "8ef72be7-7490-4a11-8c0a-24db5244f34e",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T09:38:31.313Z"
+  },
+  {
+    "id": "04e86efc-a38a-4610-a62c-1f54319b8d5e",
+    "dashboard_id": "ebf65eee-4c61-473c-845f-7598c2a8f2d8",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T09:39:21.983Z"
+  },
+  {
+    "id": "2f41ea0b-3e9e-4f09-91ce-69af948c4ff3",
+    "dashboard_id": "030e6a44-1cac-4b11-9ef5-863d1f5f69b4",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T09:47:09.107Z"
+  },
+  {
+    "id": "d6b0f858-adbc-41a7-98e0-30ba8f2de963",
+    "dashboard_id": "560d94e3-ff62-4b3d-ab73-bb5b4dedb24c",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T09:59:20.015Z"
+  },
+  {
+    "id": "3f9548f0-4d22-4a59-8aa8-5b72bf6953a7",
+    "dashboard_id": "e0de254d-6367-487f-adb7-45c4db5923e0",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T10:08:24.063Z"
+  },
+  {
+    "id": "38e5428d-0f30-4fa1-ade6-35d3f3e265e9",
+    "dashboard_id": "3dd5525b-4156-44ef-9ac7-6824a0e638be",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T10:23:32.290Z"
+  },
+  {
+    "id": "7ce9b870-b9d3-40bf-9fd4-d1a1715cbfa9",
+    "dashboard_id": "d3d53053-f7b0-4300-9095-67afb1d953e7",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [],
+      "rows": []
+    },
+    "chart_config": {
+      "columns": [],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T11:55:53.794Z"
+  },
+  {
+    "id": "37d6a34d-ad8a-44f0-8d33-0520e82f6040",
+    "dashboard_id": "a95240f8-a563-4cf1-8f55-0b9e1893ad53",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:39:48.900Z"
+  },
+  {
+    "id": "274622cd-47e7-40aa-919c-db5381b8eaee",
+    "dashboard_id": "cbf56983-2a60-40b8-a869-8c58b7925125",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:41:55.575Z"
+  },
+  {
+    "id": "33e48a4f-422b-4f49-933d-89508f434a47",
+    "dashboard_id": "1b581a13-d530-461f-bb10-c8839e0b4d2d",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:43:50.265Z"
+  },
+  {
+    "id": "2b4b22f0-28db-4306-86c0-73ae8655a174",
+    "dashboard_id": "9692357b-7441-4aaa-b96b-2bf62c711586",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:44:20.463Z"
+  },
+  {
+    "id": "8569aac0-0d9e-43c8-b2b7-9b1d637d90e9",
+    "dashboard_id": "790d50dd-9bd1-45b4-aadb-e4d7d6c66ba0",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:55:21.006Z"
+  },
+  {
+    "id": "b161801a-0972-4200-b321-5b656c9043df",
+    "dashboard_id": "ca24c71e-3226-4a2d-a641-477c0ef66538",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T12:57:14.805Z"
+  },
+  {
+    "id": "83ee81f2-1a0e-48fe-a715-4aef8a13fb82",
+    "dashboard_id": "6ca918f4-498e-46d9-9291-5e11aa7a7ed3",
+    "chart_type": "Bar Chart",
+    "chart_data": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "rows": [
+        {
+          "age": 0,
+          "patient_count": 1
+        },
+        {
+          "age": 2,
+          "patient_count": 5
+        },
+        {
+          "age": 3,
+          "patient_count": 7
+        },
+        {
+          "age": 4,
+          "patient_count": 7
+        },
+        {
+          "age": 5,
+          "patient_count": 8
+        },
+        {
+          "age": 6,
+          "patient_count": 11
+        },
+        {
+          "age": 7,
+          "patient_count": 12
+        },
+        {
+          "age": 8,
+          "patient_count": 13
+        },
+        {
+          "age": 9,
+          "patient_count": 24
+        },
+        {
+          "age": 10,
+          "patient_count": 15
+        },
+        {
+          "age": 11,
+          "patient_count": 14
+        },
+        {
+          "age": 12,
+          "patient_count": 12
+        },
+        {
+          "age": 13,
+          "patient_count": 19
+        },
+        {
+          "age": 14,
+          "patient_count": 15
+        },
+        {
+          "age": 15,
+          "patient_count": 17
+        },
+        {
+          "age": 16,
+          "patient_count": 12
+        },
+        {
+          "age": 17,
+          "patient_count": 17
+        },
+        {
+          "age": 18,
+          "patient_count": 21
+        },
+        {
+          "age": 19,
+          "patient_count": 13
+        },
+        {
+          "age": 20,
+          "patient_count": 9
+        },
+        {
+          "age": 21,
+          "patient_count": 13
+        },
+        {
+          "age": 22,
+          "patient_count": 9
+        },
+        {
+          "age": 23,
+          "patient_count": 11
+        },
+        {
+          "age": 24,
+          "patient_count": 5
+        },
+        {
+          "age": 25,
+          "patient_count": 9
+        },
+        {
+          "age": 26,
+          "patient_count": 11
+        },
+        {
+          "age": 27,
+          "patient_count": 10
+        },
+        {
+          "age": 28,
+          "patient_count": 17
+        },
+        {
+          "age": 29,
+          "patient_count": 13
+        },
+        {
+          "age": 30,
+          "patient_count": 9
+        },
+        {
+          "age": 31,
+          "patient_count": 10
+        },
+        {
+          "age": 32,
+          "patient_count": 12
+        },
+        {
+          "age": 33,
+          "patient_count": 12
+        },
+        {
+          "age": 34,
+          "patient_count": 8
+        },
+        {
+          "age": 35,
+          "patient_count": 23
+        },
+        {
+          "age": 36,
+          "patient_count": 11
+        },
+        {
+          "age": 37,
+          "patient_count": 14
+        },
+        {
+          "age": 38,
+          "patient_count": 8
+        },
+        {
+          "age": 39,
+          "patient_count": 10
+        },
+        {
+          "age": 40,
+          "patient_count": 11
+        },
+        {
+          "age": 41,
+          "patient_count": 15
+        },
+        {
+          "age": 42,
+          "patient_count": 9
+        },
+        {
+          "age": 43,
+          "patient_count": 10
+        },
+        {
+          "age": 44,
+          "patient_count": 13
+        },
+        {
+          "age": 45,
+          "patient_count": 14
+        },
+        {
+          "age": 46,
+          "patient_count": 16
+        },
+        {
+          "age": 47,
+          "patient_count": 12
+        },
+        {
+          "age": 48,
+          "patient_count": 13
+        },
+        {
+          "age": 49,
+          "patient_count": 21
+        },
+        {
+          "age": 50,
+          "patient_count": 17
+        }
+      ]
+    },
+    "chart_config": {
+      "columns": [
+        "age",
+        "patient_count"
+      ],
+      "chartType": "Bar Chart"
+    },
+    "created_at": "2025-10-29T13:56:09.289Z"
+  }
+]
