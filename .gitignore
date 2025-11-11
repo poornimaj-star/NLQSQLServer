@@ -31,8 +31,6 @@ htmlcov/
 Thumbs.db
 
 # Env and secrets
-*.env
-*/.env
 ai_service/.env
 backend/.env
 frontend/.env
